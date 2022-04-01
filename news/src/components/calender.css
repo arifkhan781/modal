@@ -1,0 +1,80 @@
+/* .button-component{
+    display: flex;
+    justify-content:flex-end;
+}
+Grid h6{
+    font-family: Poppins-SemiBold;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #343A40;
+  
+}
+Grid h5{
+    font-family: Poppins-SemiBold;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #343A40;
+}
+.xButton{
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.modal{
+    background: #FFFFFF;
+    padding: 0px;
+
+}
+.grid-outer{
+    padding: 0px 20px 20px;
+
+}
+#outlined-basic{
+    padding:9px;
+    background-color: ghostwhite;
+
+}
+.button-component .add-live-class{
+    border: none;
+    background-color: white;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    height: 22px;
+
+    color: #444BAB;
+}
+form .publish{
+    background: linear-gradient(95.6deg, #3BABC3 0%, #444BAB 98.82%);
+    border-radius: 5px;
+
+}
+.error-input {
+	margin-bottom:0; 
+	margin-top: 1vw;
+	color:#FF5050
+}
+#outlined-select-currency{
+   padding: 13px;   
+} */
+
+#outlined-basic1{
+    display:flex;
+    align-items: flex-start;
+    height: 150px;
+    padding:9px;
+    background-color: rgba(250, 250, 250, 1);
+
+}
+
+
+#outlined-basic{
+    
+    padding:9px;
+    background-color: rgba(250, 250, 250, 1);
+
+}
+.btn{
+    background: linear-gradient(95.6deg, #3BABC3 0%, #444BAB 98.82%);
+    width: 101px;
+height: 40px;
+}
